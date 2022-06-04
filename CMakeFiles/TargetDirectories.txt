@@ -1,0 +1,5 @@
+/home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw3/ceng218_hw3/hw3/exercise2/CMakeFiles/edit_cache.dir
+/home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw3/ceng218_hw3/hw3/exercise2/CMakeFiles/rebuild_cache.dir
+/home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw3/ceng218_hw3/hw3/exercise2/src/CMakeFiles/exercise2.dir
+/home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw3/ceng218_hw3/hw3/exercise2/src/CMakeFiles/edit_cache.dir
+/home/matin/Documents/iztech/IZTECH IV/CENG218 - Analysis And Design Of Algorithms/hw/hw3/ceng218_hw3/hw3/exercise2/src/CMakeFiles/rebuild_cache.dir
