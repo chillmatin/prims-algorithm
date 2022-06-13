@@ -138,7 +138,6 @@ unordered_map<int, vector<Edge>> csv_to_graph_map(string csv_file)
         for (int j = 0; j < lines.size(); j++)
         {
             Edge edge;
-
             edge.from = from;
             edge.to = j;
             edge.weight = lines[i][j];
